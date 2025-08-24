@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "StackModChineseAddon",
+  "author": "lazy",
+  "version": "1.0.0",
+  "description": "StackMod的汉化插件",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "dependencies": [ "StackMod" ],
+  "url": "..."
+}
