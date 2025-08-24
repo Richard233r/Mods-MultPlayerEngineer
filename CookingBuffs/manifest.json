@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "CookingBuffs",
+  "author": "Franky",
+  "version": "1.0.1",
+  "description": "Lets you toggle all cooking buffs that have a buff effect for an adjustable amount of time",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

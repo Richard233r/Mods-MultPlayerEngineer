@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "BinocularsZoomMod",
+  "author": "Simmelsau",
+  "version": "1.0.0",
+  "description": "This mod add a zoom to the Binoculars. (Gamepad support (LB-RB))",
+  "gameVersion": "1.0.0"
+  
+}

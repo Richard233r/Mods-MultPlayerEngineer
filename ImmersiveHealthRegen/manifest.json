@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "ImmersiveHealthRegen",
+  "author": "You",
+  "version": "1.0.1",
+  "description": "A mod that adds balanced and configurable health regeneration.",
+  "gameVersion": "1.0.1",
+  "type": "Mod",
+  "url": "..."
+}

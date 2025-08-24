@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "BuildShare",
+  "name": "Build Share (ALPHA)",
+  "author": "Toni Macaroni",
+  "version": "1.0.10",
+  "description": "Share your buildings with the world.",
+  "gameVersion": "1.0.0",
+  "loaderVersion": "0.6.2",
+  "type": "Mod",
+  "url": "..."
+}

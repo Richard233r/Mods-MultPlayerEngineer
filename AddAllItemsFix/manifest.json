@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "AddAllItemsFix",
+  "author": "GLaD0S",
+  "version": "1.0.0",
+  "description": "Makes the debug command AddAllItems actually add all items",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

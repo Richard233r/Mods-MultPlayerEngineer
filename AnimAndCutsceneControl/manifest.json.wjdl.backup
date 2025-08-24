@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "AnimAndCutsceneControl",
+  "author": "Toni Macaroni",
+  "version": "1.0.0",
+  "description": "Lets you skip different kinds of anims and cutscenes.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "RemoveMountainFog",
+  "author": "Simmelsau",
+  "version": "1.0.0",
+  "description": "This mod will remove the MountainFog",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url" : "https://sotf-mods.com/mods/simmelsau/RemoveMountainFog"
+}

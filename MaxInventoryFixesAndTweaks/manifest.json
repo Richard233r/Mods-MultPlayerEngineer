@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "MaxInventoryFixesAndTweaks",
+  "author": "tempbito",
+  "version": "1.1.1",
+  "description": "Adds some qol features and fixes related to items max carriable amount.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
